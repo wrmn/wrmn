@@ -1,8 +1,8 @@
+<h1 align= "center"><b>Hello, I am Aditya Warman (wrmn)</b></h1>
 <p align="center">
-  <h1 align= "center"><b>Hello, I am Aditya Warman (wrmn)</b></h1>
-  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="250px" align="center">
-  <h2>I look forward to absorb knowledge, gain experience, collaborate, and build amazing project for the world!</h2>
+  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="250px">
 </p>
+<h2 align="center">I look forward to absorb knowledge, gain experience, collaborate, and build amazing project for the world!</h2>
 
 ## Favorite Tech
 Unix, Vim, Rails, React, Node, Postgres, and more.
