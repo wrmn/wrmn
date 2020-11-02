@@ -1,5 +1,5 @@
 ### Hi there 👋
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="wrmn Spotify Playing" width="350" />](https://open.spotify.com/user/37r153i67zzn95embjph0c3bd)
+[<img src="https://spotify-currently-playing-track.wrmn.vercel.app/api" alt="wrmn Spotify Playing" width="350" />](https://open.spotify.com/user/37r153i67zzn95embjph0c3bd)
 
 <!--
 **wrmn/wrmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
