@@ -11,7 +11,7 @@ Unix, Vim, Rails, React, Node, Postgres, and more.
 </p>
 
 ### github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmrn&layout=compact)](https://github.com/anuraghaza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrmn&layout=compact)](https://github.com/anuraghaza/github-readme-stats)
 
 
 ## I Love Music
