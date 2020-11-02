@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align= "center"><b>Hello, I am Aditya Warman (wrmn)</b></h1>
   <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="250px">
-</p>
+
 
 <h2>I look forward to absorb knowledge, gain experience, collaborate, and build amazing project for the world!</h2>
 
@@ -19,4 +19,4 @@ hip hop, rap, lo-fi, typebeat, and more.
 
 ### currently listening
 [<img src="https://spotify-currently-playing-track.wrmn.vercel.app/api" alt="wrmn Spotify Playing" width="350" />](https://open.spotify.com/user/37r153i67zzn95embjph0c3bd)
-
+</p>
