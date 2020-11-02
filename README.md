@@ -16,4 +16,4 @@ Ubuntu 20.04 and NeoVim user
 hip hop, rap, lo-fi, typebeat, and more.
 
 ### currently listening
-[<img src="https://spotify-currently-playing-track.wrmn.vercel.app/api" alt="wrmn Spotify Playing" width="350" />](https://open.spotify.com/user/37r153i67zzn95embjph0c3bd)
+[<p align="center"><img src="https://spotify-currently-playing-track.wrmn.vercel.app/api" alt="wrmn Spotify Playing" width="350" /></p>](https://open.spotify.com/user/37r153i67zzn95embjph0c3bd)
