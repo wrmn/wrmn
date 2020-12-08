@@ -2,7 +2,10 @@
 
 ### currently listening to
 [<p align="center">  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="230px">
-<img src="https://spotify-currently-playing-track.wrmn.vercel.app/api" alt="wrmn Spotify Playing" width="350" /></p>](https://open.spotify.com/user/37r153i67zzn95embjph0c3bd)
+
+  [![Spotify](https://novatorem-mu.vercel.app/api/spotify)](https://open.spotify.com/user/vvxn6h4bjdd96kqvtkrbq2xmw)
+
+
 
 ## I Love Music
 <p align="center">
