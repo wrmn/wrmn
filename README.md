@@ -1,9 +1,8 @@
 <h1 align= "center"><b> I am Aditya Warman (wrmn)</b></h1>
 
 ### currently listening to
-[<p align="center">  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="230px">
-
-  [![Spotify](https://novatorem-mu.vercel.app/api/spotify)](https://open.spotify.com/user/vvxn6h4bjdd96kqvtkrbq2xmw)
+<p align="center">  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="230px">
+[![Spotify](https://novatorem-mu.vercel.app/api/spotify)](https://open.spotify.com/user/vvxn6h4bjdd96kqvtkrbq2xmw)</p>
 
 
 
